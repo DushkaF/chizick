@@ -1,0 +1,12 @@
+Added Component: Designator=X5(JST-SH04B)
+Add component (AddParameter): Name = "Net1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net4"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X6(JST-SH04B)
+Add component (AddParameter): Name = "Net1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net4"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component X5 JST-4P
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component X6 JST-4P

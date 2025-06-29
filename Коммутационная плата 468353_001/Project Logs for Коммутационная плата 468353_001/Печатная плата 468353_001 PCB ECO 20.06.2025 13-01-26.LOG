@@ -1,0 +1,20 @@
+Change Component Comment : Designator=X8 Old Comment=JST-3P New Comment=VTX
+Change Component Comment : Designator=X10 Old Comment=JST-3P New Comment=Камера
+Change component parameters: Designator = "X8" ("X8"); Footprint = "JST-SM03B-SRSS-TB_V"; UniqueID = "\PZHTBVDM" ("\PZHTBVDM")
+Change component parameters (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net2"; Value = "Vcc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net3"; Value = "AV OUT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X10" ("X10"); Footprint = "FP-53048-0310-MFG"; UniqueID = "\MVSHIHEN" ("\MVSHIHEN")
+Change component parameters (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net2"; Value = "+5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net3"; Value = "AV IN"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=X8-1
+Added Pin To Net: NetName=VCC Pin=X8-2
+Added Pin To Net: NetName=GND Pin=X10-1
+Added Pin To Net: NetName=+5 Pin=X10-2
+Added Pin To Net: NetName=NetX8_3 Pin=X8-3
+Added Pin To Net: NetName=NetX8_3 Pin=X10-3
+Added Net: Name=NetX8_3
+Added Room: Name=DCDC
+Added Room: Name=Overvoltage
+Added Room: Name=Reversevoltage

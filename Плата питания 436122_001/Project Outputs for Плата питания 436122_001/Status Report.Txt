@@ -1,0 +1,14 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Плата питания 436122_001.PrjPcb]
+   Generated File[Разводка платы.GTL]
+   Generated File[Разводка платы.GBL]
+   Generated File[Разводка платы.GM]
+   Generated File[Разводка платы.EXTREP]
+   Generated File[Разводка платы.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 13:06:31 On 14.06.2025

@@ -1,0 +1,29 @@
+Change component parameters: Designator = "X9" ("X9"); Footprint = "JST-SH04B"; UniqueID = "\CBASXRJP" ("\CBASXRJP")
+Change component parameters (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net2"; Value = "+5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net3"; Value = "SDA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net4"; Value = "SCL"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED 0805)
+Added Component: Designator=R?(МЛТ-0.125)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(МЛТ-0.125)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=HL?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=Voltage Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=Voltage Pin=R?-2
+Added Pin To Net: NetName=GND Pin=X9-1
+Added Pin To Net: NetName=+5 Pin=X9-2
+Added Pin To Net: NetName=SDA Pin=X9-3
+Added Pin To Net: NetName=SCL Pin=X9-4
+Added Pin To Net: NetName=NetHL?_2 Pin=HL?-2
+Added Pin To Net: NetName=NetHL?_2 Pin=R?-2
+Added Net: Name=NetHL?_2
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component HL? ?
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R? ?
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R? ?
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R? 500

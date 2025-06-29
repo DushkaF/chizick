@@ -1,0 +1,8 @@
+Added Component: Designator=X10(FP-S2B-XH-A-1_LF_SN-MFG)
+Add component (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net2"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net4"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=X10-1
+Added Pin To Net: NetName=VCC Pin=X10-2
+Added Member To Class: ClassName=Принципиальная схема 436122_001 Member=Component X10 JST-2P

@@ -1,0 +1,14 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Полётный контроллер 466250_004.PrjPcb]
+   Generated File[Печатная плата 466250_004.GTL]
+   Generated File[Печатная плата 466250_004.GBL]
+   Generated File[Печатная плата 466250_004.GM]
+   Generated File[Печатная плата 466250_004.EXTREP]
+   Generated File[Печатная плата 466250_004.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 23:21:56 On 29.06.2025

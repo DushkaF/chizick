@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=X1 Old Footprint=JST-SM08B-SRSS-TB_V New Footprint=JST-SM06B-SRSS-TB_V
+Added Pin To Net: NetName=SD_CS Pin=U1-2

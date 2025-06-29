@@ -1,0 +1,47 @@
+Removed Member From Class: ClassName=DCDC Member=S1
+Change Component Comment : Designator=X2 Old Comment=JST-4P New Comment=Левая консоль
+Change Component Comment : Designator=X5 Old Comment=JST-4P New Comment=Правая консоль
+Change Component Comment : Designator=X7 Old Comment=JST-4P New Comment=Хвостовое оперение
+Change component parameters: Designator = "S1" ("S1"); Footprint = "Solder bridge middle"; UniqueID = "\PZXLGRXO" ("\PZXLGRXO")
+Change component parameters: Designator = "X1" ("X1"); Footprint = "JST-SH04B"; UniqueID = "\SSVKLWUR" ("\SSVKLWUR")
+Change component parameters (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net4"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "X2" ("X2"); Footprint = "FP-53048-0410-MFG"; UniqueID = "\RPGGFCWP" ("\RPGGFCWP")
+Change component parameters (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net4"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "X4" ("X4"); Footprint = "JST-SH04B"; UniqueID = "\IMYEDRWP" ("\IMYEDRWP")
+Change component parameters (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net4"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "X5" ("X5"); Footprint = "FP-53048-0410-MFG"; UniqueID = "\SLYEGPYP" ("\SLYEGPYP")
+Change component parameters (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net4"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "X7" ("X7"); Footprint = "FP-53048-0410-MFG"; UniqueID = "\KXXTUOZO" ("\KXXTUOZO")
+Change component parameters (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net4"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "X9" ("X9"); Footprint = "JST-SH04B"; UniqueID = "\CBASXRJP" ("\CBASXRJP")
+Change component parameters (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Net4"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X?(JST-SM06B-SRSS-TB_V)
+Add component (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net2"; Value = "OUT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net3"; Value = "OUT2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net4"; Value = "OUT3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net5"; Value = "OUT4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net6"; Value = "OUT5"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component X1 JST-4P
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component X5 Правая консоль
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component X6 466259.004
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component X8 JST-3P
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component X? JST-6P

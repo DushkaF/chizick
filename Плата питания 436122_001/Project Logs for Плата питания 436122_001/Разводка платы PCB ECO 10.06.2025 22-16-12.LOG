@@ -1,0 +1,192 @@
+Added Component: Designator=C1(CAPC2012X10N)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=C2(FP-TPSD-MFG)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "293D475X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/293d475x9010a2te3/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/40002/293d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "293D475X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "74-293D475X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/293D475X9010A2TE3?qs=zj6zwI%252Bv92RDYyeabgx%252B6w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC2012X10N)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC2012X10N)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC2012X10N)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=C6(FP-TPSD-MFG)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "293D475X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/293d475x9010a2te3/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/40002/293d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "293D475X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "74-293D475X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/293D475X9010A2TE3?qs=zj6zwI%252Bv92RDYyeabgx%252B6w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC2012X10N)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=D1(FP-DO-213AA-MFG)
+Added Component: Designator=L1(WE-TPC_4828)
+Added Component: Designator=Q1(AO-SOT-23-3L_V)
+Add component (AddParameter): Name = "Channel Mode"; Value = "Enhancement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Drain Current"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.aosmd.com/res/data_sheets/AO3401A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 3, 03/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain Current (Max)"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain Efficiency"; Value = "NotRequired%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-Source On-Res"; Value = "0.044ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-Source On-Volt"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency (Max)"; Value = "NotRequiredMHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate-Source Voltage (Max)"; Value = "?12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha and Omega"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.aosmd.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Noise Figure"; Value = "NotRequireddB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of  Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto150C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Classification"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Power (Max)"; Value = "NotRequiredW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Small Outline Transistor, Body 2.95 x 1.6 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SOT-23-3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.aosmd.com/res/packaging_information/SOT-23-3L.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "1.4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Gain"; Value = "NotRequireddB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rad Hardened"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PowerMOSFET"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "BootLogic"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "BootLogic"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "BootLogic"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "BootLogic"; VariantName = "[No Variations]"
+Added Component: Designator=R5(МЛТ-0.125)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "BootLogic"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "BootLogic"; VariantName = "[No Variations]"
+Added Component: Designator=U1(MP9943 QFN8)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=X1(XT30PWM)
+Add component (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net2"; Value = "+5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net3"; Value = "RX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net4"; Value = "TX"; VariantName = "[No Variations]"
+Added Component: Designator=X2(FP-B2B-XH-AM_LF_SN-MFG)
+Add component (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net2"; Value = "+5V"; VariantName = "[No Variations]"
+Added Component: Designator=X3(XT30PWM)
+Add component (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net2"; Value = "+5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net3"; Value = "RX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net4"; Value = "TX"; VariantName = "[No Variations]"
+Added Component: Designator=X4(FP-S2B-XH-A-1_LF_SN-MFG)
+Add component (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net2"; Value = "+5V"; VariantName = "[No Variations]"
+Added Component: Designator=X5(FP-S2B-XH-A-1_LF_SN-MFG)
+Add component (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net2"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net4"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X6(XT30PWM)
+Add component (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net2"; Value = "+5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net3"; Value = "RX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net4"; Value = "TX"; VariantName = "[No Variations]"
+Added Component: Designator=X7(FP-S2B-XH-A-1_LF_SN-MFG)
+Add component (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net2"; Value = "+5V"; VariantName = "[No Variations]"
+Added Component: Designator=X8(XT60-perpendicular)
+Add component (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net2"; Value = "+5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net3"; Value = "RX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net4"; Value = "TX"; VariantName = "[No Variations]"
+Added Component: Designator=X9(FP-S2B-XH-A-1_LF_SN-MFG)
+Add component (AddParameter): Name = "Net1"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net2"; Value = "+5V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C5-1
+Added Pin To Net: NetName=+5 Pin=C6-2
+Added Pin To Net: NetName=+5 Pin=R5-2
+Added Pin To Net: NetName=+5 Pin=X2-2
+Added Pin To Net: NetName=+5 Pin=X4-2
+Added Pin To Net: NetName=+5 Pin=X7-2
+Added Pin To Net: NetName=+5 Pin=X9-2
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X2-1
+Added Pin To Net: NetName=GND Pin=X3-1
+Added Pin To Net: NetName=GND Pin=X4-1
+Added Pin To Net: NetName=GND Pin=X5-1
+Added Pin To Net: NetName=GND Pin=X6-1
+Added Pin To Net: NetName=GND Pin=X7-1
+Added Pin To Net: NetName=GND Pin=X8-1
+Added Pin To Net: NetName=GND Pin=X9-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-6
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=R3-1
+Added Pin To Net: NetName=NetC7_1 Pin=U1-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-1
+Added Pin To Net: NetName=NetD1_2 Pin=R7-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-4
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-3
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-8
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U1-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R5-1
+Added Pin To Net: NetName=NetR4_2 Pin=R6-2
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=VCC Pin=Q1-3
+Added Pin To Net: NetName=VCC Pin=X1-2
+Added Pin To Net: NetName=VCC Pin=X3-2
+Added Pin To Net: NetName=VCC Pin=X5-2
+Added Pin To Net: NetName=VCC Pin=X6-2
+Added Pin To Net: NetName=VCC Pin=X8-2
+Added Net: Name=VCC
+Added Pin To Net: NetName=VIN Pin=C2-2
+Added Pin To Net: NetName=VIN Pin=C3-1
+Added Pin To Net: NetName=VIN Pin=C4-1
+Added Pin To Net: NetName=VIN Pin=D1-1
+Added Pin To Net: NetName=VIN Pin=Q1-2
+Added Pin To Net: NetName=VIN Pin=R2-1
+Added Pin To Net: NetName=VIN Pin=U1-7
+Added Net: Name=VIN
+Added Class: Name=Принципиальная схема 436122_001
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3

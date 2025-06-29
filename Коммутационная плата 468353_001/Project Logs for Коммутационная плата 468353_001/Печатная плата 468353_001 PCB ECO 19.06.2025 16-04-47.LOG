@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Designator: OldDesignator=X? NewDesignator=X2
+Added Component: Designator=X3(JST-SM03B-SRSS-TB_V)
+Add component (AddParameter): Name = "Net1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net3"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X4(FP-53048-0310-MFG)
+Add component (AddParameter): Name = "Net1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net3"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component X2 JST-4P
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component X3 JST-3P
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component X4 JST-3P

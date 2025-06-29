@@ -1,0 +1,198 @@
+Removed Pin From Net: NetName=VIN Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=VIN Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=+5 raw Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=VIN Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=+5 raw Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=VIN Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=+5 raw Pin=S1-2
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=VIN Pin=U1-7
+Removed Member From Class: ClassName=DCDC Member=C1
+Removed Member From Class: ClassName=Принципиальная схема 468353_001 Member=C1
+Removed Member From Class: ClassName=DCDC Member=C2
+Removed Member From Class: ClassName=Принципиальная схема 468353_001 Member=C2
+Removed Member From Class: ClassName=DCDC Member=C3
+Removed Member From Class: ClassName=Принципиальная схема 468353_001 Member=C3
+Removed Member From Class: ClassName=DCDC Member=C4
+Removed Member From Class: ClassName=Принципиальная схема 468353_001 Member=C4
+Removed Member From Class: ClassName=DCDC Member=C5
+Removed Member From Class: ClassName=Принципиальная схема 468353_001 Member=C5
+Removed Member From Class: ClassName=DCDC Member=C6
+Removed Member From Class: ClassName=Принципиальная схема 468353_001 Member=C6
+Removed Member From Class: ClassName=DCDC Member=C7
+Removed Member From Class: ClassName=Принципиальная схема 468353_001 Member=C7
+Removed Member From Class: ClassName=DCDC Member=L1
+Removed Member From Class: ClassName=Принципиальная схема 468353_001 Member=L1
+Removed Member From Class: ClassName=DCDC Member=R1
+Removed Member From Class: ClassName=Принципиальная схема 468353_001 Member=R1
+Removed Member From Class: ClassName=DCDC Member=R2
+Removed Member From Class: ClassName=Принципиальная схема 468353_001 Member=R2
+Removed Member From Class: ClassName=DCDC Member=R3
+Removed Member From Class: ClassName=Принципиальная схема 468353_001 Member=R3
+Removed Member From Class: ClassName=DCDC Member=R4
+Removed Member From Class: ClassName=Принципиальная схема 468353_001 Member=R4
+Removed Member From Class: ClassName=DCDC Member=R5
+Removed Member From Class: ClassName=Принципиальная схема 468353_001 Member=R5
+Removed Member From Class: ClassName=DCDC Member=R6
+Removed Member From Class: ClassName=Принципиальная схема 468353_001 Member=R6
+Removed Member From Class: ClassName=Принципиальная схема 468353_001 Member=S1
+Removed Member From Class: ClassName=DCDC Member=U1
+Removed Member From Class: ClassName=Принципиальная схема 468353_001 Member=U1
+Added Component: Designator=C?(FP-TPSD-MFG)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "293D475X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/293d475x9010a2te3/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/40002/293d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "293D475X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "74-293D475X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/293D475X9010A2TE3?qs=zj6zwI%252Bv92RDYyeabgx%252B6w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012X10N)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012X10N)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012X10N)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP-TPSD-MFG)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "293D475X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/293d475x9010a2te3/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/40002/293d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "293D475X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "74-293D475X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/293D475X9010A2TE3?qs=zj6zwI%252Bv92RDYyeabgx%252B6w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012X10N)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012X10N)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=L?(WE-TPC_4828)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "95°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1919"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "4848"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1919"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Wirewound"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "420mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "770m?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "2.9972mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "150µH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance Tolerance"; Value = "30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max DC Current"; Value = "420mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "22866852"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RMS Current (Irms)"; Value = "420mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Saturation Current"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = "7MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=R?(МЛТ-0.125)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=S?(Solder bridge middle)
+Added Component: Designator=U?(MP9943 QFN8)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 raw Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=VIN Pin=C?-1
+Added Pin To Net: NetName=VIN Pin=C?-1
+Added Pin To Net: NetName=+5 raw Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=VIN Pin=C?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=VIN Pin=R?-1
+Added Pin To Net: NetName=+5 raw Pin=S?-2
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=VIN Pin=U?-7
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=L?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-6
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetL?_2 Pin=L?-2
+Added Pin To Net: NetName=NetL?_2 Pin=R?-2
+Added Pin To Net: NetName=NetL?_2 Pin=R?-2
+Added Pin To Net: NetName=NetL?_2 Pin=S?-1
+Added Net: Name=NetL?_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-4
+Added Net: Name=NetR?_1
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-8
+Added Net: Name=NetR?_2
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=DCDC Member=Component C? 47uF
+Added Member To Class: ClassName=DCDC Member=Component C? 10nF
+Added Member To Class: ClassName=DCDC Member=Component C? 100nF
+Added Member To Class: ClassName=DCDC Member=Component C? 100nF
+Added Member To Class: ClassName=DCDC Member=Component C? 47uF
+Added Member To Class: ClassName=DCDC Member=Component C? 100nF
+Added Member To Class: ClassName=DCDC Member=Component C? 100nF
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component C? 47uF
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component C? 10nF
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component C? 100nF
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component C? 100nF
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component C? 47uF
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component C? 100nF
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component C? 100nF
+Added Member To Class: ClassName=DCDC Member=Component L? 10uH
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component L? 10uH
+Added Member To Class: ClassName=DCDC Member=Component R? 100k
+Added Member To Class: ClassName=DCDC Member=Component R? 7.5k
+Added Member To Class: ClassName=DCDC Member=Component R? 51k
+Added Member To Class: ClassName=DCDC Member=Component R? 41.2k
+Added Member To Class: ClassName=DCDC Member=Component R? 20k
+Added Member To Class: ClassName=DCDC Member=Component R? 500k
+Added Member To Class: ClassName=DCDC Member=Component R? 41.2k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R? 100k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R? 7.5k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R? 51k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R? 41.2k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R? 20k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R? 500k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R? 41.2k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component S?
+Added Member To Class: ClassName=DCDC Member=Component U? MP9943GQ-Z
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component U? MP9943GQ-Z

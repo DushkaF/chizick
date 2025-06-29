@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R? Old Footprint=МЛТ-0.125 New Footprint=RES0805
+Change Component Comment : Designator=R? Old Comment=? New Comment=?k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R? ?
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R? 500

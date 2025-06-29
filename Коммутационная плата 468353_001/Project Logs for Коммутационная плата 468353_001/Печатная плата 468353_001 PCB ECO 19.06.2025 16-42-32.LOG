@@ -1,0 +1,6 @@
+Added Component: Designator=X?(JST-SH04B)
+Add component (AddParameter): Name = "Net1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net4"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component X? JST-4P

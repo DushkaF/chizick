@@ -1,0 +1,294 @@
+Change Component Footprint: Designator=X2 Old Footprint=FP-S4B-XH-A-1_LF_SN-MFG New Footprint=FP-53048-0410-MFG
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=X3 NewDesignator=X8
+Change Component Designator: OldDesignator=X4 NewDesignator=X10
+Change Component Designator: OldDesignator=X5 NewDesignator=X1
+Change Component Designator: OldDesignator=X6 NewDesignator=X4
+Change Component Designator: OldDesignator=X8 NewDesignator=X3
+Change Component Designator: OldDesignator=X? NewDesignator=X7
+Change Component Designator: OldDesignator=X? NewDesignator=X9
+Added Component: Designator=C1(CAPC2012X10N)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC2012X10N)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC2012X10N)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC2012X10N)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=C5(FP-TPSD-MFG)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "293D475X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/293d475x9010a2te3/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/40002/293d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "293D475X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "74-293D475X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/293D475X9010A2TE3?qs=zj6zwI%252Bv92RDYyeabgx%252B6w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C6(FP-TPSD-MFG)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "293D475X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/293d475x9010a2te3/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/40002/293d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "293D475X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "74-293D475X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/293D475X9010A2TE3?qs=zj6zwI%252Bv92RDYyeabgx%252B6w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC2012X10N)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=L1(WE-TPC_4828)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "95°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1919"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "4848"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1919"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Wirewound"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "420mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "770m?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "2.9972mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "150µH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance Tolerance"; Value = "30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max DC Current"; Value = "420mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "22866852"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RMS Current (Irms)"; Value = "420mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Saturation Current"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = "7MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=R5(МЛТ-0.125)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "Overvoltage"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "Overvoltage"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "Reversevoltage"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES0805)
+Add component (AddParameter): Name = "ClassName"; Value = "Overvoltage"; VariantName = "[No Variations]"
+Added Component: Designator=S1(Solder bridge)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=U1(MP9943 QFN8)
+Add component (AddParameter): Name = "ClassName"; Value = "DCDC"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(FP-DO-213AA-MFG)
+Add component (AddParameter): Name = "ClassName"; Value = "Reversevoltage"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(FP-DO-213AA-MFG)
+Add component (AddParameter): Name = "ClassName"; Value = "Overvoltage"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(SOT-23)
+Add component (AddParameter): Name = "Channel Mode"; Value = "Enhancement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "Overvoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Drain Current"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.aosmd.com/res/data_sheets/AO3401A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 3, 03/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain Current (Max)"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain Efficiency"; Value = "NotRequired%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-Source On-Res"; Value = "0.044ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-Source On-Volt"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency (Max)"; Value = "NotRequiredMHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate-Source Voltage (Max)"; Value = "?12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha and Omega"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.aosmd.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Noise Figure"; Value = "NotRequireddB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of  Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto150C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Classification"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Power (Max)"; Value = "NotRequiredW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Small Outline Transistor, Body 2.95 x 1.6 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SOT-23-3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.aosmd.com/res/packaging_information/SOT-23-3L.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "1.4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Gain"; Value = "NotRequireddB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rad Hardened"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PowerMOSFET"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(SOT-23)
+Add component (AddParameter): Name = "Channel Mode"; Value = "Enhancement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "Reversevoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Drain Current"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.aosmd.com/res/data_sheets/AO3401A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 3, 03/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain Current (Max)"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain Efficiency"; Value = "NotRequired%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-Source On-Res"; Value = "0.044ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-Source On-Volt"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency (Max)"; Value = "NotRequiredMHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate-Source Voltage (Max)"; Value = "?12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha and Omega"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.aosmd.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Noise Figure"; Value = "NotRequireddB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of  Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto150C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Classification"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Power (Max)"; Value = "NotRequiredW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Small Outline Transistor, Body 2.95 x 1.6 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SOT-23-3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.aosmd.com/res/packaging_information/SOT-23-3L.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "1.4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Gain"; Value = "NotRequireddB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rad Hardened"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PowerMOSFET"; VariantName = "[No Variations]"
+Added Component: Designator=VT3(SOT-23)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-236-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "Overvoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Breakdown Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Voltage (VCEO)"; Value = "400mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Breakdown Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Collector Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "300mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transition Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Added Component: Designator=X5(FP-53048-0410-MFG)
+Add component (AddParameter): Name = "Net1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net4"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X6(466259.004)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=VIN Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VIN Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=+5 raw Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VIN Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+5 raw Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=NetC1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC1_2 Pin=R1-2
+Added Pin To Net: NetName=VIN Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetC7_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R5-1
+Added Pin To Net: NetName=NetL1_2 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetR4_2 Pin=R6-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=+5 raw Pin=R7-2
+Added Pin To Net: NetName=NetR7_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetL1_2 Pin=S1-1
+Added Pin To Net: NetName=+5 raw Pin=S1-2
+Added Pin To Net: NetName=NetR4_1 Pin=U1-1
+Added Pin To Net: NetName=NetC7_1 Pin=U1-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-3
+Added Pin To Net: NetName=NetR1_1 Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=NetC1_1 Pin=U1-6
+Added Pin To Net: NetName=VIN Pin=U1-7
+Added Pin To Net: NetName=NetR3_2 Pin=U1-8
+Added Pin To Net: NetName=VIN Pin=VD1-1
+Added Pin To Net: NetName=NetR9_2 Pin=VD1-2
+Added Pin To Net: NetName=NetR7_1 Pin=VD2-1
+Added Pin To Net: NetName=GND Pin=VD2-2
+Added Pin To Net: NetName=NetR10_2 Pin=VT1-1
+Added Pin To Net: NetName=+5 Pin=VT1-2
+Added Pin To Net: NetName=+5 raw Pin=VT1-3
+Added Pin To Net: NetName=NetR9_2 Pin=VT2-1
+Added Pin To Net: NetName=VIN Pin=VT2-2
+Added Pin To Net: NetName=VCC Pin=VT2-3
+Added Pin To Net: NetName=NetR8_2 Pin=VT3-1
+Added Pin To Net: NetName=+5 raw Pin=VT3-2
+Added Pin To Net: NetName=NetR10_2 Pin=VT3-3
+Added Member To Class: ClassName=DCDC Member=Component C1 10nF
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component C1 10nF
+Added Member To Class: ClassName=DCDC Member=Component C2 100nF
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component C2 100nF
+Added Member To Class: ClassName=DCDC Member=Component C3 100nF
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component C3 100nF
+Added Member To Class: ClassName=DCDC Member=Component C4 100nF
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component C4 100nF
+Added Member To Class: ClassName=DCDC Member=Component C5 47uF
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component C5 47uF
+Added Member To Class: ClassName=DCDC Member=Component C6 47uF
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component C6 47uF
+Added Member To Class: ClassName=DCDC Member=Component C7 100nF
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component C7 100nF
+Added Member To Class: ClassName=DCDC Member=Component L1 10uH
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component L1 10uH
+Added Member To Class: ClassName=DCDC Member=Component R1 20k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R1 20k
+Added Member To Class: ClassName=DCDC Member=Component R2 500k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R2 500k
+Added Member To Class: ClassName=DCDC Member=Component R3 100k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R3 100k
+Added Member To Class: ClassName=DCDC Member=Component R4 51k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R4 51k
+Added Member To Class: ClassName=DCDC Member=Component R5 41.2k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R5 41.2k
+Added Member To Class: ClassName=DCDC Member=Component R6 7.5k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R6 7.5k
+Added Member To Class: ClassName=Overvoltage Member=Component R7 1k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R7 1k
+Added Member To Class: ClassName=Overvoltage Member=Component R8 1k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R8 1k
+Added Member To Class: ClassName=Reversevoltage Member=Component R9 100k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R9 100k
+Added Member To Class: ClassName=Overvoltage Member=Component R10 1k
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component R10 1k
+Added Member To Class: ClassName=DCDC Member=Component S1
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component S1
+Added Member To Class: ClassName=DCDC Member=Component U1 MP9943GQ-Z
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component U1 MP9943GQ-Z
+Added Member To Class: ClassName=Reversevoltage Member=Component VD1 BZV55C9V1
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component VD1 BZV55C9V1
+Added Member To Class: ClassName=Overvoltage Member=Component VD2 BZV55C9V1
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component VD2 BZV55C9V1
+Added Member To Class: ClassName=Overvoltage Member=Component VT1 AO3401A
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component VT1 AO3401A
+Added Member To Class: ClassName=Reversevoltage Member=Component VT2 AO3401A
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component VT2 AO3401A
+Added Member To Class: ClassName=Overvoltage Member=Component VT3 КТ228А9
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component VT3 КТ228А9
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component X9 JST-4P
+Added Member To Class: ClassName=Принципиальная схема 468353_001 Member=Component X10 JST-3P
+Added Room: Name=DCDC
+Added Room: Name=Overvoltage
+Added Room: Name=Reversevoltage

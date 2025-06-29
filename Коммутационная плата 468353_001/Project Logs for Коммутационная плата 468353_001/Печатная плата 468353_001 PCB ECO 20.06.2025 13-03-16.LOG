@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC Pin=X8-2
+Added Pin To Net: NetName=VIN Pin=X8-2
+Added Room: Name=DCDC
+Added Room: Name=Overvoltage
+Added Room: Name=Reversevoltage

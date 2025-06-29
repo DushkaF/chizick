@@ -1,0 +1,14 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Коммутационная плата 468353_001.PrjPcb]
+   Generated File[Печатная плата 468353_001.GTL]
+   Generated File[Печатная плата 468353_001.GBL]
+   Generated File[Печатная плата 468353_001.GM]
+   Generated File[Печатная плата 468353_001.EXTREP]
+   Generated File[Печатная плата 468353_001.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 15:27:53 On 20.06.2025
